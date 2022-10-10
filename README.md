@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Abhishek Jindal
-- 👀 I’m interested in building 3d applications
-- 🌱 I’m currently learning Mobile Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in building Software Applications
+- 🌱 I’m currently learning Cross Mobile Development
 
 <!---
 AbhishekJindal1997/AbhishekJindal1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
